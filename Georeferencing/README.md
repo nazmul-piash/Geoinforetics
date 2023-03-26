@@ -9,8 +9,8 @@ In the county of Olpe, a new industrial site with two buildings is being propose
 ![Screenshot_4](https://user-images.githubusercontent.com/22714112/227779785-91e4e7ac-d275-4410-86d9-749ec86e21bb.png)
 Soil and wather sample colcted for lab test from Landschaftspark Duisburg-Nord and the position is marked menually with a map. with the Geo referencing tool the position ofthe samle location was collection.
 By identifying the location from WMTS NW DOP, Georeferencing used to marge the map and find the Latitude, Longitude of the location and plot them with the marked loaction.
+![Landschaftspark Nord collected sample Location](https://user-images.githubusercontent.com/22714112/227781258-4c3d39e3-3298-4241-9e52-fa301c0e3051.jpg)
 
-[Landschaftspark Nord collected sample Location.pdf](https://github.com/nazmul-piash/Geoinformatics/files/11071776/Landschaftspark.Nord.collected.sample.Location.pdf)
 
 Table 5.2: Samples 
 Water Sample	Latitude	Longitude	Place of taking soil sample
