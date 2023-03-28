@@ -12,7 +12,7 @@ By identifying the location from WMTS NW DOP, Georeferencing used to marge the m
 ![Landschaftspark Nord collected sample Location](https://user-images.githubusercontent.com/22714112/227781258-4c3d39e3-3298-4241-9e52-fa301c0e3051.jpg)
 
 
-## Table 5.2: Samples 
+## Table : Samples 
 
 ### Water Sample	Latitude:	   Longitude:	          Place of taking soil sample
 
