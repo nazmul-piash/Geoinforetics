@@ -13,19 +13,19 @@ By identifying the location from WMTS NW DOP, Georeferencing used to marge the m
 
 
 Table 5.2: Samples 
-Water Sample	Latitude	Longitude	Place of taking soil sample
-W1	346077.7368	5705701.388	Near Doppelkühlwerk (opp to WC)
-W2	346058.7548	5705795.922	Near Doppelkühlwerk
-W3	345690.9976	5705662.818	Next to the bridge			
+Water Sample	Latitude:	Longitude:	Place of taking soil sample
+W1	Latitude: 346077.7368;	Longitude: 5705701.388;	Near Doppelkühlwerk (opp to WC)
+W2	Latitude: 346058.7548;	Longitude: 5705795.922;	Near Doppelkühlwerk
+W3	Latitude: 345690.9976;	Longitude: 5705662.818;	Next to the bridge			
 			
 Soil Sample	 	 	 
-S1 (soil 1)	346044.2598	5705832.102	Soil beside Doppelkühlwerk
-S2 (soil 2, 3)	346032.6728	5705826.449	Near Sample 1
-S4 (soil 4)	345868.3921	5705902.713	Between iron production near Plant
-S5 (soil 5)	345713.0755	5705666.292	Close to the narrow channel 
-S6 (soil 0)	345274.9254	5705599.408	Into the woods 
-S7 (soil 7)	345520.1835	5705790.476	Near the park
-S8 (soil 8)	345401.0164	5705448.942	close to the rail track 
-S16 (soil 6)	345248.5014	5705512.246	Near Highway
-S19 (soil 9)	345416.3716	5705717.986	wasteland
-S24 (soil 10)	345799.8416	5705672.706	Between the pounds
+S1 (soil 1)	Latitude: 346044.2598;	Longitude: 5705832.102;	Soil beside Doppelkühlwerk
+S2 (soil 2, 3)	Latitude: 346032.6728;	Longitude: 5705826.449;	Near Sample 1
+S4 (soil 4)	Latitude: 345868.3921;	Longitude: 5705902.713;	Between iron production near Plant
+S5 (soil 5)	Latitude: 345713.0755;	Longitude: 5705666.292;	Close to the narrow channel 
+S6 (soil 0)	Latitude: 345274.9254;	Longitude: 5705599.408;	Into the woods 
+S7 (soil 7)	Latitude: 345520.1835;	Longitude: 5705790.476;	Near the park
+S8 (soil 8)	Latitude: 345401.0164;	Longitude: 5705448.942;	close to the rail track 
+S16 (soil 6)	Latitude: 345248.5014;	Longitude: 5705512.246;	Near Highway
+S19 (soil 9)	Latitude: 345416.3716;	Longitude: 5705717.986;	wasteland
+S24 (soil 10)	Latitude: 345799.8416;	Longitude: 5705672.706;	Between the pounds
